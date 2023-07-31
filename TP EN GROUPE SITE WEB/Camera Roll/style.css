@@ -1,0 +1,142 @@
+#body{
+    background-color: blue;
+}
+#en_tete{
+    background-image:url(mwanga.jpeg);
+    position: absolute;
+    top:  0px;
+    left: 0px;
+    height:100px;
+    width: 100%;
+}
+ #connexion{
+        float: right;
+        margin: 10px 50px 10px 50px;
+}
+#section{
+    background-image:url(college.PNG);
+    position: absolute;
+    top: 150px;
+    left: 0px;
+    height: 800px;
+    width: 100%;
+    margin: auto;
+    text-align: left;
+   
+}
+p{
+    color:yellow;
+    font-family: arial;
+    font-size: 15px;
+}
+h3{
+    color: rgb(58, 226, 43);
+    font-family: arial; 
+    font-size:20px ;
+}
+#contact{
+    background-color:grey ;
+    position:absolute ;
+    top:1000PX;
+    left:10PX ;
+    height:400PX ;
+    width:100% ;
+    margin:auto ;
+    text-align:left ;
+   
+}
+#menu{
+    float:left;
+    margin: 40px 80px 40px 80px;
+    background-color:blueviolet;
+    width: 100%;
+
+}
+a{
+    text-decoration: ;
+    color:white ;
+    font-family: arial;
+    margin: 0px 5px 0px 5px ;
+}
+a:hover{
+    border: 2px solid white;
+       border-radius:100px ;     
+}
+.my_secte{
+    background-color:;
+    width: 20%;
+    position: absolute;
+    top: 100px;
+    left:0px;
+    float:left;  
+    border: 18px;
+    margin: 50px;
+    height: 60px ;
+    
+} 
+.my_se {
+    background-color: ;
+    width: 20%;
+    position: absolute;
+    top: 150px;
+    left: 400px;
+}
+.my_s {
+    width: 20%;
+    position:absolute ;
+    top: 250px ;
+    left: 800px ;
+}
+#SECTION_ORGANISER {
+    position: absolute;
+    top: 100px;
+    align-items: center;
+    background-color: cyan;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    font-size:20px ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkmagenta;
+} 
+.mon_titre{
+    position:static;
+    top:100px;
+    background-color:tomato ;
+    width:100%;
+    height:20px;
+    text-align:center ;
+    font-size:20px;
+    font-family:arial;
+    color:white;
+    left:400px ;
+}
+h4{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    padding: 10px;
+}
+P{
+    padding: 5PX;
+
+}
+.insta{
+    width: auto;
+    transform: translate(788px, -399px);
+}
+body{
+    background-image:;
+}
+.face{
+    width: auto; 
+    transform: translate(850px, -465px);
+}
+.twit{
+    width:auto ;
+    transform:translate(930px,-535px) ;  
+}
+body{
+    background-color:black ;
+    top: 50px;
+}

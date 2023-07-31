@@ -1,0 +1,71 @@
+#en_tete{
+    background-color:violet ;
+    position: absolute;
+    top: 3px;
+    left: 1px;
+    height: 100px;
+    width: 100%;
+    margin: -10px -10px -10px 10px;
+   
+}
+#publication{
+    background-color: #4a5357;
+    position: absolute;
+    top:50px;
+    left: 0px;
+    height: 500px;
+    width: 100%;
+    text-align:center;
+    margin: auto;
+}
+#conctat{
+    background-color: #989b9e;
+    position: absolute;
+    top:550px;
+    left: 0px;
+    height: 300px;
+    width: 100%;
+}
+#menu{
+    float: left;
+    margin: 20px 80px 20px 80px;
+}
+#connexion{
+    float:right;
+    margin: 10px 50px 10px 50px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    margin: 0px 5px 0px 5px ;
+}
+a:hover{
+    border: 2px solid red;
+    border-radius: 15px;
+}
+#pub{
+    width: 50%;
+    float: right;
+    border: 3px solid chocolate;
+    border-radius: 10px;
+    margin: 20px 400px 20px 400px;
+    top:40px ;
+    text-align: center;
+    background-color: yellowgreen;
+
+}
+#my_form{
+    margin:300px 400px 300px 400px;
+    width:200px ;
+    border: 1px;
+    padding: 50px;
+    background-color: #ee2d8d;
+    top: 10px;
+    height: 100px;
+}
+body{
+    background-image:url(eleve.jpeg) ;
+
+}
+h2

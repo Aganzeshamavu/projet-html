@@ -1,0 +1,85 @@
+
+#en_tete{
+    background-color: green ;
+    position: absolute;
+    top:0px;
+    left: 0px;
+    height:50px ;
+    width:100% ;
+}
+.my_re{
+    width:20% ;
+    position:absolute ;
+    top: 100px;
+    left:0px;
+    float:left;
+    margin:50px;
+    height:60px;
+}
+.my_gl{
+    width: 20%;
+    position: absolute;
+    top: 150px;
+    left: 400px;
+}
+.my_js{
+    width: 20px;
+    position: absolute;
+    top: 150px;
+    left: 900px;
+}
+.my_val{
+    width: 20%;
+    position: absolute;
+    top: 500px;
+    left: 0px;
+    float:left ;
+    margin:50px ;
+    height: 60px;
+}
+.my_iss{
+    width:20% ;
+    position:absolute ;
+    top: 550px;
+    left: 400px;
+}
+.my_vnq{
+    width: 20px;
+    position:absolute ;
+    top:550px;
+    left:900px;
+}
+.my_dvd{
+    width:20%;
+    position:absolute;
+     top:1000px;
+     left: 0px;
+     float: left;
+     margin: 50px;
+     height: 60px;
+}
+#menu{
+    float: left;
+    margin: 20px 80px 20px 80px;
+    width: 100%;
+    
+
+}
+a{
+    color:cornsilk;
+    font-family: initial;
+    margin: 0px 5px 0px 5px;
+    font-size:20px ;
+}
+a:hover{
+    border:3px solid white;
+    border-radius: 100px;
+}
+h3{
+    color: tomato;
+    font-family: initial;
+    font-size:22px ;
+}
+body{
+    background-color: lightpink;
+
